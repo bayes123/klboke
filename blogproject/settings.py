@@ -25,7 +25,7 @@ SECRET_KEY = '%d^)5!%83r^=-9rjdqufay$3cwob)q=z6sgs8+k%pz(1r57r@w'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG =True
 
-ALLOWED_HOSTS = ['120.78.91.232','iZwz9g85umiihdlvkrocgbZ','.kelin.site']
+ALLOWED_HOSTS = ['127.0.0.1','localhost','120.78.91.232']
 
 
 # Application definition
